@@ -4,32 +4,56 @@ import { Camera, Heart, Star } from 'lucide-react';
 const Gallery = () => {
   const galleryImages = [
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/33015897/pexels-photo-33015897.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Mãe carinhosa com bebê",
       category: "Momentos Especiais"
     },
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/1166473/pexels-photo-1166473.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/14927268/pexels-photo-14927268.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Bebê dormindo peacefully",
       category: "Sono Tranquilo"
     },
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/6849106/pexels-photo-6849106.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/1712855/pexels-photo-1712855.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Hora do banho",
       category: "Cuidados Diários"
     },
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/3985163/pexels-photo-3985163.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/26509769/pexels-photo-26509769.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Consulta médica",
       category: "Saúde e Bem-estar"
     },
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/1673975/pexels-photo-1673975.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/4122927/pexels-photo-4122927.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Brincadeiras e desenvolvimento",
       category: "Desenvolvimento"
     },
     {
+<<<<<<< HEAD
       src: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      src: "https://images.pexels.com/photos/9896878/pexels-photo-9896878.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       alt: "Amamentação",
       category: "Alimentação"
     }

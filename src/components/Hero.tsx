@@ -44,10 +44,17 @@ const Hero = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="bg-pink-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-pink-700 transition-colors shadow-md hover:shadow-lg">
+<<<<<<< HEAD
                 Ver Dicas de Cuidados
               </button>
               <button className="border-2 border-pink-600 text-pink-600 px-8 py-3 rounded-lg font-medium hover:bg-pink-50 transition-colors">
                 Saiba Mais
+=======
+                <a href="https://apretailer.com.br/click/68766e762bfa817afa6f6bd8/184238/354418/bebecolo" target="_blank">Ver Dicas de Cuidados</a>
+              </button>
+              <button className="border-2 border-pink-600 text-pink-600 px-8 py-3 rounded-lg font-medium hover:bg-pink-50 transition-colors">
+                <a href='https://apretailer.com.br/click/68766e762bfa817afa6f6bd8/184238/354418/bebecolo' target='_blank'>Saiba Mais</a>
+>>>>>>> f33fecd (	new file:   bebe)
               </button>
             </div>
           </div>

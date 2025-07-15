@@ -7,21 +7,33 @@ const CareSection = () => {
       icon: Droplets,
       title: "Higiene e Banho",
       description: "Aprenda as técnicas corretas para dar banho no seu bebê com segurança e carinho.",
+<<<<<<< HEAD
       image: "https://images.pexels.com/photos/6849106/pexels-photo-6849106.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      image: "https://images.pexels.com/photos/914253/pexels-photo-914253.jpeg?auto=compress&cs=tinysrgb&w=600",
+>>>>>>> f33fecd (	new file:   bebe)
       tips: ["Água morna (36-37°C)", "Produtos específicos para bebês", "Movimentos suaves"]
     },
     {
       icon: Utensils,
       title: "Alimentação",
       description: "Orientações sobre amamentação, introdução alimentar e nutrição adequada.",
+<<<<<<< HEAD
       image: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      image: "https://images.pexels.com/photos/7414393/pexels-photo-7414393.jpeg?auto=compress&cs=tinysrgb&w=600",
+>>>>>>> f33fecd (	new file:   bebe)
       tips: ["Amamentação exclusiva até 6 meses", "Horários regulares", "Posição correta"]
     },
     {
       icon: Moon,
       title: "Sono e Descanso",
       description: "Dicas para estabelecer uma rotina de sono saudável e tranquila.",
+<<<<<<< HEAD
       image: "https://images.pexels.com/photos/1166473/pexels-photo-1166473.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      image: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+>>>>>>> f33fecd (	new file:   bebe)
       tips: ["Ambiente calmo", "Rotina consistente", "Posição segura para dormir"]
     },
     {
@@ -35,14 +47,22 @@ const CareSection = () => {
       icon: Baby,
       title: "Desenvolvimento",
       description: "Estimulação adequada para o desenvolvimento motor e cognitivo.",
+<<<<<<< HEAD
       image: "https://images.pexels.com/photos/1673975/pexels-photo-1673975.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      image: "https://images.pexels.com/photos/4964360/pexels-photo-4964360.jpeg?auto=compress&cs=tinysrgb&w=600",
+>>>>>>> f33fecd (	new file:   bebe)
       tips: ["Brincadeiras estimulantes", "Conversas constantes", "Toque afetuoso"]
     },
     {
       icon: Heart,
       title: "Vínculo Afetivo",
       description: "Fortalecimento do vínculo entre pais e bebê através do carinho.",
+<<<<<<< HEAD
       image: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+=======
+      image: "https://images.pexels.com/photos/7180737/pexels-photo-7180737.jpeg",
+>>>>>>> f33fecd (	new file:   bebe)
       tips: ["Contato pele a pele", "Conversar com o bebê", "Colo e carinho"]
     }
   ];
@@ -101,9 +121,13 @@ const CareSection = () => {
                   </ul>
                 </div>
 
+<<<<<<< HEAD
                 <button className="mt-6 w-full bg-pink-600 text-white py-2 rounded-lg font-medium hover:bg-pink-700 transition-colors">
                   Saiba Mais
                 </button>
+=======
+             
+>>>>>>> f33fecd (	new file:   bebe)
               </div>
             </div>
           ))}

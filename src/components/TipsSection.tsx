@@ -101,7 +101,11 @@ const TipsSection = () => {
               Nossa equipe está pronta para ajudar você com dúvidas específicas sobre os cuidados do seu bebê.
             </p>
             <button className="bg-pink-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-pink-700 transition-colors shadow-md hover:shadow-lg">
+<<<<<<< HEAD
               Fale Conosco
+=======
+              <a href='https://apretailer.com.br/click/68766e762bfa817afa6f6bd8/184238/354418/bebecolo' target='_blank'>Fale Conosco</a>
+>>>>>>> f33fecd (	new file:   bebe)
             </button>
           </div>
         </div>
