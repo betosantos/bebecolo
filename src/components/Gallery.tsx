@@ -33,7 +33,7 @@ const Gallery = () => {
       alt: "Amamentação",
       category: "Alimentação"
     }
-  ];
+  ];  
 
   return (
     <section id="galeria" className="py-20 bg-white">

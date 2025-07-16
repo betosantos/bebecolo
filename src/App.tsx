@@ -15,7 +15,7 @@ function App() {
       <CareSection />
       <TipsSection />
       <Gallery />
-      <Contact />
+      
       <Footer />
     </div>
   );
