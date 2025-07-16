@@ -4,32 +4,32 @@ import { Camera, Heart, Star } from 'lucide-react';
 const Gallery = () => {
   const galleryImages = [
     {
-      src: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/33015897/pexels-photo-33015897.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Mãe carinhosa com bebê",
       category: "Momentos Especiais"
     },
     {
-      src: "https://images.pexels.com/photos/1166473/pexels-photo-1166473.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/32894058/pexels-photo-32894058.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Bebê dormindo peacefully",
       category: "Sono Tranquilo"
     },
     {
-      src: "https://images.pexels.com/photos/6849106/pexels-photo-6849106.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/302083/pexels-photo-302083.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Hora do banho",
       category: "Cuidados Diários"
     },
     {
-      src: "https://images.pexels.com/photos/3985163/pexels-photo-3985163.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/16145654/pexels-photo-16145654.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Consulta médica",
       category: "Saúde e Bem-estar"
     },
     {
-      src: "https://images.pexels.com/photos/1673975/pexels-photo-1673975.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/11369154/pexels-photo-11369154.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Brincadeiras e desenvolvimento",
       category: "Desenvolvimento"
     },
     {
-      src: "https://images.pexels.com/photos/1973270/pexels-photo-1973270.jpeg?auto=compress&cs=tinysrgb&w=600",
+      src: "https://images.pexels.com/photos/2797865/pexels-photo-2797865.jpeg?auto=compress&cs=tinysrgb&w=600",
       alt: "Amamentação",
       category: "Alimentação"
     }
